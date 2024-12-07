@@ -42,3 +42,8 @@ Project Highlights
 This project demonstrates the versatility of Python in building interactive and educational applications.
 Focused on usability and engagement, it’s a perfect example of how small tools can make a big difference in skill development.
 For more information, feel free to explore the app and take your typing skills to the next level! 🚀
+
+Screenshots
+
+![image](https://github.com/user-attachments/assets/ae23433f-2798-4f8e-b934-cc44768f43da)
+
